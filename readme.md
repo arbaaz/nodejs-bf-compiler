@@ -1,3 +1,6 @@
-#run
-node . bf.b
-node . hello.b
+# Run
+
+```bash
+node index.js ./bf.b
+node index.js ./hello.b
+```
